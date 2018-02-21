@@ -1,2 +1,2 @@
-qwe : lab1.c
-	gcc -Wall -o lab lab1.c
+all:
+	gcc -Wall -o chessviz lab1.c
